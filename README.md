@@ -1,4 +1,6 @@
 # TrumpTweet-COVID
+# Collaboratos
+Intel Chen & Anni Pan
 As the presidential election has just wrapped up shortly before this project, we believes it is appropriate to take a more in-depth look at one of the most crucial factors in this election, COVID. 
 
 We realized that one representative record of the executive branch's response to the pandemic is no other than President Trump's tweets. 

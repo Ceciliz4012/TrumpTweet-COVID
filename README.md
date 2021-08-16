@@ -1,6 +1,4 @@
 # TrumpTweet-COVID
-# Collaboratos
-Intel Chen & Anni Pan
 As the presidential election has just wrapped up shortly before this project, we believes it is appropriate to take a more in-depth look at one of the most crucial factors in this election, COVID. 
 
 We realized that one representative record of the executive branch's response to the pandemic is no other than President Trump's tweets. 
@@ -13,3 +11,7 @@ or particular characteristics in tweets may lead to an increase/reduction in cas
 One source is a trump tweet dataset from “thetrumparchive.com”, which includes critical tweets that the President has deleted.
 Secondly, we will use the covid dataset from JHU, which has US daily COVID case/death counts by county at https://www.thetrumparchive.com/faq https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university
 
+We also used 6 machine learning models to predict diagnosis increase based on Trump’s tweets. Models were verified to be not overfitted, and all models achieved prediction accuracy of over 50%, with Gradient Boost Model getting an 88.9% accuracy of predicting Trump’s tweets causing covid diagnosis to increase.
+
+# Collaboratos
+Intel Chen & Anni Pan

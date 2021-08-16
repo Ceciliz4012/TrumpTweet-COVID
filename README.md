@@ -13,5 +13,5 @@ Secondly, we will use the covid dataset from JHU, which has US daily COVID case/
 
 We also used 6 machine learning models to predict diagnosis increase based on Trump’s tweets. Models were verified to be not overfitted, and all models achieved prediction accuracy of over 50%, with Gradient Boost Model getting an 88.9% accuracy of predicting Trump’s tweets causing covid diagnosis to increase.
 
-# Collaboratos
-Intel Chen & Anni Pan
+## Collaboratos
+Yuxuan Wang, Intel Chen, Anni Pan
